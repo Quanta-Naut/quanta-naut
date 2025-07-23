@@ -1,3 +1,10 @@
+## 👋 Hi, I'm Tarun
+
+- 🧠 I’m exploring Rust, WGPU, and systems programming
+- 🛰️ Building Rockets
+- 🛠️ Currently working on: `Voxel Engine`
+- 🧪 I love reverse engineering, automation, and graphics engines
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
