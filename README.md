@@ -6,8 +6,6 @@
 - 🧪 I love reverse engineering, automation, and graphics engines
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
@@ -22,45 +20,6 @@
  > 
 > 🔑 10 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-🌆 Daytime                301 commits         ███████████████░░░░░░░░░░   59.14 % 
-🌃 Evening                139 commits         ███████░░░░░░░░░░░░░░░░░░   27.31 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   19 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
-Tuesday                  18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
-Thursday                 33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Friday                   142 commits         ███████░░░░░░░░░░░░░░░░░░   27.90 % 
-Saturday                 144 commits         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
-Sunday                   131 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -74,5 +33,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2025 17:59:53 UTC
+ Last Updated on 23/07/2025 18:32:02 UTC
 <!--END_SECTION:waka-->
