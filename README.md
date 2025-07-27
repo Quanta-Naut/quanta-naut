@@ -6,13 +6,15 @@
 - 🧪 I love reverse engineering, automation, and graphics engines
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 343 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -78,5 +80,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2025 09:48:39 UTC
+ Last Updated on 27/07/2025 09:58:41 UTC
 <!--END_SECTION:waka-->
