@@ -8,11 +8,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2052%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-70-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-71-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
+ > 
+> 🏆 343 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -75,5 +77,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2025 20:43:57 UTC
+ Last Updated on 03/08/2025 20:59:50 UTC
 <!--END_SECTION:waka-->
