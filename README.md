@@ -6,7 +6,7 @@
 - 🧪 I love reverse engineering, automation, and graphics engines
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -75,5 +75,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2025 17:59:42 UTC
+ Last Updated on 09/08/2025 18:30:56 UTC
 <!--END_SECTION:waka-->
