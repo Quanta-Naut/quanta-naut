@@ -14,8 +14,6 @@
 
 > 📦 1.5 MB Used in GitHub's Storage 
  > 
-> 🏆 338 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 57 Public Repositories 
@@ -79,5 +77,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2025 21:20:35 UTC
+ Last Updated on 16/08/2025 21:34:57 UTC
 <!--END_SECTION:waka-->
