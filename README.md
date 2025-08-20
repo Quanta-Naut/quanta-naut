@@ -6,15 +6,13 @@
 - 🧪 I love reverse engineering, automation, and graphics engines
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-35%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 342 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -49,16 +47,18 @@ Sunday                   132 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     43 mins             ██████████████████░░░░░░░   71.32 % 
+Bash                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
+Docker                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+LibreChat                1 hr 1 min          █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 1 min          █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -74,5 +74,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/08/2025 18:53:32 UTC
+ Last Updated on 20/08/2025 19:03:35 UTC
 <!--END_SECTION:waka-->
