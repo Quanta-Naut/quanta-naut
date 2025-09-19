@@ -5,10 +5,6 @@
 - 🛠️ Currently working on: `Voxel Engine`
 - 🧪 I love reverse engineering, automation, and graphics engines
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-36%20hrs%2032%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -16,7 +12,7 @@
  > 
 > 🏆 342 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
+>  Open to Hire
  > 
 > 📜 58 Public Repositories 
  > 
