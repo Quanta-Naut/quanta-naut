@@ -1,76 +1,68 @@
-## 👋 Hi, I'm Tarun
+<style>
+.terminal {
+  background: transparent;
+  color: #b2c2e2ff;
+  font-family: "Fira Code", "Consolas", "Courier New", monospace;
+  padding: 1.5rem 0;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  white-space: pre-wrap;
+}
+.terminal .ascii-header {
+  font-size: clamp(0.4rem, 2vw, 1rem);
+  display: block;
+  overflow-x: auto;
+}
+.terminal .username {
+  color: #ff6b35;
+}
+.terminal a {
+  color: #ff6b35;
+  text-decoration: none;
+  border-bottom: 1px solid transparent;
+  transition: border-color 0.2s;
+}
+.terminal a:hover {
+  border-bottom-color: #ff6b35;
+}
 
-- 🧠 I’m exploring Rust, WGPU, and systems programming
-- 🛰️ Building Rockets
-- 🛠️ Currently working on: `Voxel Engine`
-- 🧪 I love reverse engineering, automation, and graphics engines
+@media (max-width: 768px) {
+  .terminal .ascii-header {
+    font-size: clamp(0.3rem,  0.7rem);
+  }
+}
 
+@media (max-width: 480px) {
+  .terminal .ascii-header {
+    font-size: clamp(0.25rem, 2.5vw, 0.5rem);
+  }
+}
+</style>
+<div class="terminal">
+<span class="ascii-header">
+  ___                   _           _   _             _
+ / _ \ _   _  __ _ _ __ | |_ __ _   | \ | | __ _ _   _| |_
+| | | | | | |/ _` | '_ \| __/ _` |  |  \| |/ _` | | | | __|
+| |_| | |_| | (_| | | | | || (_| |  | |\  | (_| | |_| | |_
+ \__\_\\__,_|\__,_|_| |_|\__\__,_|  |_| \_|\__,_|\__,_|\__|
 
-**🐱 My GitHub Data** 
+ </span>     
 
-> 📦 1.5 MB Used in GitHub's Storage 
- > 
-> 🏆 342 Contributions in the Year 2025
- > 
->  Open to Hire
- > 
-> 📜 58 Public Repositories 
- > 
-> 🔑 10 Private Repositories 
- > 
-**I'm an Early 🐤** 
+<span class="command">$ whoami</span>
+<span class="username">quanta naut</span>
 
-```text
-🌞 Morning                55 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-🌆 Daytime                305 commits         ███████████████░░░░░░░░░░   59.11 % 
-🌃 Evening                142 commits         ███████░░░░░░░░░░░░░░░░░░   27.52 % 
-🌙 Night                  14 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-```
-📅 **I'm Most Productive on Saturday** 
+<span class="command">$ cat about.txt</span>
+developer fascinated by open source, graphics, and rocketry. 
+building, experimenting, and learning
 
-```text
-Monday                   20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Tuesday                  20 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 % 
-Wednesday                22 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Thursday                 35 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-Friday                   143 commits         ███████░░░░░░░░░░░░░░░░░░   27.71 % 
-Saturday                 144 commits         ███████░░░░░░░░░░░░░░░░░░   27.91 % 
-Sunday                   132 commits         ██████░░░░░░░░░░░░░░░░░░░   25.58 % 
-```
+<span class="command">$ cat links.txt</span>
+portfolio → <a href="https://quanta-naut.github.io/" target="_blank">quanta-naut.github.io</a> 
+linkedin  → <a href="https://www.linkedin.com/in/tarsk" target="_blank">linkedin.com/in/tarsk</a> 
+instagram → <a href="https://www.instagram.com/quantum._naut/" target="_blank">instagram.com/quantum._naut</a>
 
+<span class="command">$ support --sponsor</span>
+github sponsor → <a href="https://github.com/sponsors/Quanta-Naut" target="_blank">github.com/sponsors/Quanta-Naut</a> 
+buy me coffee   → <a href="https://buymeacoffee.com/quanta.naut" target="_blank">buymeacoffee.com/quanta.naut</a>
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-YAML                     43 mins             ██████████████████░░░░░░░   71.32 % 
-Bash                     12 mins             █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
-Docker                   4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-
-🔥 Editors: 
-VS Code                  1 hr 1 min          █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-LibreChat                1 hr 1 min          █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in TypeScript** 
-
-```text
-TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   27.50 % 
-JavaScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
-```
-
-
-
-
- Last Updated on 22/08/2025 10:43:37 UTC
-<!--END_SECTION:waka-->
+<span class="command">$ exit</span>
+</div>
